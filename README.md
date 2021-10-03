@@ -1,4 +1,4 @@
-## Hospital Clustering and recommendation based user input
+## Hospital Clustering and recommendation based on user input
 
   The model built defines the cluster a user is located and also sends to the user the nearest Hospital to his exact location.
 
